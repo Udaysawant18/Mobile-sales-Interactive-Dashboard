@@ -1,2 +1,2 @@
 # Mobile-sales-Interactive-Dashboard
-Seeking for an entry-level data analyst position and eager to apply my data analysis skills in a dynamic environment. Skilled in SQL, Python, and data visualization. Aspiring to contribute to data-driven decision-making processes and eager to develop further in data analytics.
+Developed an interactive dashboard to visualize and analyze mobile sales data for Personal Project using tools such as Power BI, Excel, & PowerQuery.This project aimed to provide insights into sales performance, customer preferences, and market trends in the mobile industry.
